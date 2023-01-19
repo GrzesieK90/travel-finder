@@ -1,0 +1,12 @@
+{
+  "files": {
+    "main.js": "/travel-finder/static/js/main.e5c0fe9c.js",
+    "static/js/787.e6aec8e4.chunk.js": "/travel-finder/static/js/787.e6aec8e4.chunk.js",
+    "index.html": "/travel-finder/index.html",
+    "main.e5c0fe9c.js.map": "/travel-finder/static/js/main.e5c0fe9c.js.map",
+    "787.e6aec8e4.chunk.js.map": "/travel-finder/static/js/787.e6aec8e4.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.e5c0fe9c.js"
+  ]
+}
